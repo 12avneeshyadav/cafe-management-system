@@ -19,7 +19,7 @@ Python 3.x installed on your system
 
 Steps
 bash# 1. Clone the repository
-git clone https://github.com/12avneeshyadav/cafe-management-system.git
+git clone https://github.com/codebyavneesh/cafe-management-system.git
 
 # 2. Navigate to the project folder
 cd cafe-management-system
@@ -55,7 +55,7 @@ Exception Handling — For robust input validation
 
 👨‍💻 Author
 Your Name
-GitHub: @Avneesh Yadav
+GitHub: @codebyavneesh
 
 📄 License
 This project is open source and available under the MIT License.
